@@ -104,7 +104,7 @@ pytest -q
 
 ## 🤝 Contributing
 
-Found an error or want to improve the article? Feel free to open an issue or submit a pull request!
+Found an error? Feel free to open an issue or submit a pull request!
 
 ## 📄 License
 
